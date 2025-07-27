@@ -1,5 +1,7 @@
-I am a PhD candidate at University of Pittsburgh, supervised by Dr. Malihe Alikhani. My current research interests span controlled natural language generation (NLG), active learning for NLP, and AI moderation of abusive content on social media.
+Hello! I am currently working on the Moonworks Mission as the CEO of Moonworks AI. The Mission is to develop Omnimodal Sovereign AI models and to also empower human roles and human creativity in AI ecosystems.
 
-I received my bachelor's degree in Computer Science from Carnegie Mellon University. During my bachelor's, I initially pursued research in automata theory, supervised by Prof. Christos Kapoutsis. Later I developed interest in Machine Learning and Natural Language Processing. My undergraduate thesis on "Interactive Evaluation and Training of Classifiers" was supervised by Prof. Bhiksha Raj.
-You can contact me at sabithassan64@gmail.com.
-My CV and publications can be found here : https://sabithsn.github.io/
+I received my bachelor's degree in Computer Science from Carnegie Mellon University and my PhD from University of Pittsburgh. My research over the last several years spanned active learning for NLP, controlled natural language generation, AI safety, and deploying AI in real-world scenarios.
+
+I have another name that I prefer! It's Pantho. It means "wanderer" in Bengali.
+My webpage : https://sabithsn.github.io/
+You can contact me at sabit [at] moonworks.ai
