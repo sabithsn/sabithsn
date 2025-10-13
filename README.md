@@ -1,7 +1,5 @@
-Hello! I am currently working on the Moonworks Mission as the CEO of Moonworks AI. The Mission is to develop Omnimodal Sovereign AI models and to also empower human roles and human creativity in AI ecosystems.
+Hello! I lead Moonworks AI, where our mission is to develop cost‑efficient, locally intelligent Sovereign and Omnimodal AI models that honor human values and creativity. Our models are powered by our own CAT pretraining, helping models learn extremely fast and outpeform others in parameter class.
 
-I received my bachelor's degree in Computer Science from Carnegie Mellon University and my PhD from University of Pittsburgh. My research over the last several years spanned active learning for NLP, controlled natural language generation, AI safety, and deploying AI in real-world scenarios.
+I received my bachelor's degree in Computer Science from Carnegie Mellon University and my PhD from University of Pittsburgh. My research spans active learning for NLP, controlled generation, AI safety, and real‑world AI deployment.
 
-I have another name that I prefer! It's Pantho. It means "wanderer" in Bengali.
-My webpage : https://sabithsn.github.io/
-You can contact me at sabit [at] moonworks.ai
+I also go by Pantho — Bengali for "wanderer".
